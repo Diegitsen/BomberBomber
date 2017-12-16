@@ -1,0 +1,120 @@
+﻿  formulario.cpp
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Jugador.h(58): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Jugador.h(255): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(106): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(130): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(133): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(143): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(147): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(155): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(159): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(161): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(163): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(167): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(169): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(171): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(196): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(217): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Bombas.h(228): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\Enemigo.h(116): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrBombas.h(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrBombas.h(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrBombas.h(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrBombas.h(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrBombas.h(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(117): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(160): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(188): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(202): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(244): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(267): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(274): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(281): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(296): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(310): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(317): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(324): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(338): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrJugador.h(345): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrEnemigo.h(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrEnemigo.h(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrEnemigo.h(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrEnemigo.h(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrEnemigo.h(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\ArrEnemigo.h(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(299): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(353): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(394): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(448): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(502): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(559): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(614): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(671): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(728): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(785): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(965): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(1003): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(1042): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(1080): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(1118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(1159): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(1198): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(1240): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(1281): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\formulario.h(1322): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(157): warning C4715: 'ArrJugador::getPos_jugadorx': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(164): warning C4715: 'ArrJugador::getPos_jugadory': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(171): warning C4715: 'ArrJugador::getNivel': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(178): warning C4715: 'ArrJugador::getX': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(185): warning C4715: 'ArrJugador::getY': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(192): warning C4715: 'ArrJugador::getCantBomb': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(199): warning C4715: 'ArrJugador::getCantExp': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(206): warning C4715: 'ArrJugador::getCantVida': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(213): warning C4715: 'ArrJugador::getTiempo': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(220): warning C4715: 'ArrJugador::getCambioMapas': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(227): warning C4715: 'ArrJugador::getColocar': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(234): warning C4715: 'ArrJugador::getMuerte': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(241): warning C4715: 'ArrJugador::getContPuntos': not all control paths return a value
+c:\users\aldo\desktop\diego\upc 2017 - 01\gamebomber\demojuegobombermanguevara\demojuegobomberman\arrjugador.h(248): warning C4715: 'ArrJugador::getCambio': not all control paths return a value
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  DemoJuegoBomberman.vcxproj -> C:\Users\Aldo\Desktop\Diego\UPC 2017 - 01\GameBomber\DemoJuegoBombermanGuevara\Debug\DemoJuegoBomberman.exe
